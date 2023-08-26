@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/RushiMore/static/css/main.dc3f4b96.css",
+    "main.js": "/RushiMore/static/js/main.c2e2c379.js",
+    "static/media/profile1.png": "/RushiMore/static/media/profile1.a90e40228d20125626c3.png",
+    "static/media/profile2.png": "/RushiMore/static/media/profile2.3b4ab65a39b0167c5e02.png",
+    "static/media/profile4.png": "/RushiMore/static/media/profile4.d32bb0c5915e9f88cd02.png",
+    "static/media/hoc.png": "/RushiMore/static/media/hoc.b3d16319c9e3b1831353.png",
+    "static/media/sidebar.png": "/RushiMore/static/media/sidebar.a1a6bcddbab850dac4a8.png",
+    "static/media/profile3.png": "/RushiMore/static/media/profile3.5a9c8096f9d2bb8a7c56.png",
+    "static/media/boy.png": "/RushiMore/static/media/boy.f8f6f6510f10fe95c358.png",
+    "static/media/don.png": "/RushiMore/static/media/don.ba437ed6a816f5a1dc13.png",
+    "static/media/musicapp.png": "/RushiMore/static/media/musicapp.fefca9cb670cb1a2818a.png",
+    "static/media/ecommerce.png": "/RushiMore/static/media/ecommerce.f5dffe72dcd8a79a89c5.png",
+    "static/media/glassesimoji.png": "/RushiMore/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/RushiMore/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/RushiMore/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/RushiMore/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/RushiMore/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/RushiMore/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/RushiMore/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/RushiMore/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/RushiMore/index.html",
+    "main.dc3f4b96.css.map": "/RushiMore/static/css/main.dc3f4b96.css.map",
+    "main.c2e2c379.js.map": "/RushiMore/static/js/main.c2e2c379.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc3f4b96.css",
+    "static/js/main.c2e2c379.js"
+  ]
+}
